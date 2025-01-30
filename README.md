@@ -1,4 +1,4 @@
-## First Next.JS project as ToDo list
+## My first Next.JS project as ToDo list
 
 ## Getting Started
 
