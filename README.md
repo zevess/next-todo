@@ -1,4 +1,4 @@
-## First Next.JS(https://nextjs.org) project as ToDo list
+## First Next.JS project as ToDo list
 
 ## Getting Started
 
